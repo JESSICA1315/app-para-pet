@@ -1,6 +1,6 @@
 App para Pet
 
-***APP DO para PET\*** 
+***APP  para PET\*** 
 
 1- Apresentação do app: 
 
